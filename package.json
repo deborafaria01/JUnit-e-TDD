@@ -1,0 +1,17 @@
+{
+  "name": "triangulo",
+  "version": "1.0.0",
+  "main": "src/triangulo.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.2",
+    "jest": "^27.0.0",
+    "ts-jest": "^27.0.0",
+    "typescript": "^4.0.0"
+  },
+  "dependencies": {
+    "triangulo": "file:"
+  }
+}
