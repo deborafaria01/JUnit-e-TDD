@@ -28,3 +28,5 @@ O projeto foi desenvolvido em **TypeScript** e utiliza o framework de testes **J
 - Triângulo isósceles válido com permutações
 - Triângulo equilátero válido
 - Validação de entradas inválidas (zero, negativo, soma dos lados)
+
+  
