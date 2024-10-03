@@ -8,7 +8,7 @@ Este projeto é uma implementação simples para determinar o tipo de triângulo
    ```
    npm install 
    ```
-**Obs.: Se houver problemas com as definições de tipo do Jest, execute também:**
+Obs.: Se houver problemas com as definições de tipo do Jest, execute também:
    ```
    npm install --save-dev @types/jest 
    ```
