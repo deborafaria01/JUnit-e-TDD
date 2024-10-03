@@ -6,10 +6,12 @@ Este projeto é uma implementação simples para determinar o tipo de triângulo
 
 1. Instale as dependências:
    ```
-   npm install --save-dev @types/jest
+   npm install 
    ```
-Obs.: Se houver problemas com as definições de tipo do Jest, execute também:
-   npm install --save-dev @types/jest
+**Obs.: Se houver problemas com as definições de tipo do Jest, execute também:**
+   ```
+   npm install --save-dev @types/jest 
+   ```
 
 2. Execute os testes:
    ```
